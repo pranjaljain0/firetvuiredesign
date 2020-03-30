@@ -15,3 +15,9 @@ More content screen
 More Info of a movie
 
 ![More information on movie](https://res.cloudinary.com/daytlidrk/image/upload/c_scale,w_720/v1585537225/Firetv%20mock%20ui/Mockup3_qbkiy4.png)
+
+![Home](https://res.cloudinary.com/daytlidrk/image/upload/c_scale,w_720/v1585536615/Firetv%20mock%20ui/Fire_TV_Landing_wpupkr.png)
+
+![More apps](https://res.cloudinary.com/daytlidrk/image/upload/c_scale,w_720/v1585536613/Firetv%20mock%20ui/Fire_TV_More_More_wwqhoh.png)
+
+![More information on movie](https://res.cloudinary.com/daytlidrk/image/upload/c_scale,w_720/v1585536613/Firetv%20mock%20ui/Fire_TV_More_More_wwqhoh.png)
